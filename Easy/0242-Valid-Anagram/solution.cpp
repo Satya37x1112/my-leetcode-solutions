@@ -5,8 +5,8 @@ public:
         {
             return false;
         }
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
+        sort(s.begin(),s.end()); // O(log(N))
+        sort(t.begin(),t.end());//O(log(N))
         return ((s == t) ? true : false);
     }
 };
