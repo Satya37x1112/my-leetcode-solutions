@@ -7,9 +7,9 @@ Language: C++
 Problem:
 https://leetcode.com/problems/valid-anagram/
 
-Runtime: 3 ms
+Runtime: 5 ms
 
-Memory: 9.7 MB
+Memory: 9.5 MB
 
 Topics: Hash Table, String, Sorting
 
