@@ -2,14 +2,14 @@
 
 Difficulty: Easy
 
-Language: Python
+Language: C++
 
 Problem:
 https://leetcode.com/problems/two-sum/
 
-Runtime: 0 ms
+Runtime: 103 ms
 
-Memory: 12.9 MB
+Memory: 14.2 MB
 
 Topics: Array, Hash Table
 
