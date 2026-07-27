@@ -1,0 +1,19 @@
+class Solution {
+public:
+    int maximumWealth(vector<vector<int>>& accounts) {
+        int rich = INT_MIN;
+        for(int i = 0; i < accounts.size(); i++)
+        {
+            int trich = 0;
+            for(int j = 0; j < accounts[i].size(); j++)
+            {
+                trich += accounts[i][j];
+            }
+            if(trich > rich)
+            {
+                rich = trich;
+            }
+        }
+        return rich;
+    }
+};
