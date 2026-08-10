@@ -7,9 +7,9 @@ Language: C++
 Problem:
 https://leetcode.com/problems/single-element-in-a-sorted-array/
 
-Runtime: 7 ms
+Runtime: 8 ms
 
-Memory: 31.2 MB
+Memory: 31.3 MB
 
 Topics: Array, Binary Search
 
